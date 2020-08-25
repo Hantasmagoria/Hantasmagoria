@@ -37,10 +37,10 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantas
 <summary><strong> 🎮 Gaming</strong></summary>
 
 <ul>
-    <li><img alt="Valorant Icon" width="32px" src="https://playvalorant.com/static/favicon-16x16.03b0ebb8.png"/> <a href="https://playvalorant.com/en-us/">Valorant</a>
-    <li><img alt="Blazblue Icon" width="32px" src="https://blazblue.wiki/images/thumb/c/c8/BlazBlue_Central_Fiction_Logo.png/300px-BlazBlue_Central_Fiction_Logo.png"/> <a href="https://www.blazblue.jp/cf/ac/">Blazblue(CentralFiction)</a>
-    <li><img alt="Stardew Valley Icon" width="32px" src="https://stardewvalleywiki.com/mediawiki/images/b/b2/Animals_Icon.png"/> <a href="https://www.stardewvalley.net/">Stardew Valley</a>
-    <li><img alt="MHW Icon" width="32px" src="https://www.monsterhunterworld.com/favicon.ico"/> <a href="https://www.monsterhunterworld.com/">Monster Hunter World: Iceborne</a>
+    <li><a href="https://playvalorant.com/en-us/"><img alt="Valorant Icon" width="32px" src="https://playvalorant.com/static/favicon-16x16.03b0ebb8.png"/> Valorant</a>
+    <li><a href="https://www.blazblue.jp/cf/ac/"><img alt="Blazblue Icon" width="32px" src="https://blazblue.wiki/images/thumb/c/c8/BlazBlue_Central_Fiction_Logo.png/300px-BlazBlue_Central_Fiction_Logo.png"/> Blazblue(CentralFiction)</a>
+    <li><a href="https://www.stardewvalley.net/"><img alt="Stardew Valley Icon" width="32px" src="https://stardewvalleywiki.com/mediawiki/images/b/b2/Animals_Icon.png"/> Stardew Valley</a>
+    <li><a href="https://www.monsterhunterworld.com/"><img alt="MHW Icon" width="32px" src="https://www.monsterhunterworld.com/favicon.ico"/> Monster Hunter World: Iceborne</a>
 </ul>
 
 <strong>2020 Goals:</strong>
