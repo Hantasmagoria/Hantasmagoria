@@ -25,10 +25,10 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantas
 
 <br/>
 
-<description><summary><strong>Gaming</strong></summary>
+### <details><summary>Gaming</summary>
 
 - test
 - test
 - test
 
-</description>
+</details>
