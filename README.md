@@ -25,7 +25,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantas
 
 <br/>
 
-### <description><summary><strong>Gaming</strong></summary>
+<description><summary><strong>Gaming</strong></summary>
 
 - test
 - test
