@@ -35,7 +35,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantas
 
 <details>
 <summary><strong> 🎮 Gaming</strong></summary>
-
+Currently Playing: 
 <ul>
     <li><a href="https://playvalorant.com/en-us/"><img alt="Valorant Icon" width="32px" src="https://playvalorant.com/static/favicon-16x16.03b0ebb8.png"/> Valorant</a>
     <li><a href="https://www.blazblue.jp/cf/ac/"><img alt="Blazblue Icon" width="32px" src="https://blazblue.wiki/images/thumb/c/c8/BlazBlue_Central_Fiction_Logo.png/300px-BlazBlue_Central_Fiction_Logo.png"/> Blazblue(CentralFiction)</a>
@@ -43,7 +43,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantas
     <li><a href="https://www.monsterhunterworld.com/"><img alt="MHW Icon" width="32px" src="https://www.monsterhunterworld.com/favicon.ico"/> Monster Hunter World: Iceborne</a>
 </ul>
 
-<strong>2020 Goals:</strong>
+<strong>Gaming 2020 Goals:</strong>
 
 <ul>
     <li> Complete holistic aim training according to <a href="https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0">Aimer7's KovaaK guide</a>
