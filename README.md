@@ -25,10 +25,30 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantas
 
 <br/>
 
-### <details><summary>Gaming</summary>
+### 🌟 2020 Goals:
 
-- test
-- test
-- test
+- Finish Portfolio design draft (new-final-final-finalest-final-draft-final-draft.psd)
+- Reorganize cat picture album in D drive
+- Prepare to start documenting my daughter's growth in a journal of some sort (pending some planning)
 
+<br/>
+
+<details>
+<summary><strong> 🎮 Gaming</strong></summary>
+
+<ul>
+    <li><img alt="Valorant Icon" width="32px" src="https://playvalorant.com/static/favicon-16x16.03b0ebb8.png"/> <a href="https://playvalorant.com/en-us/">Valorant</a>
+    <li><img alt="Blazblue Icon" width="32px" src="https://blazblue.wiki/images/thumb/c/c8/BlazBlue_Central_Fiction_Logo.png/300px-BlazBlue_Central_Fiction_Logo.png"/> <a href="https://www.blazblue.jp/cf/ac/">Blazblue(CentralFiction)</a>
+    <li><img alt="Stardew Valley Icon" width="32px" src="https://stardewvalleywiki.com/mediawiki/images/b/b2/Animals_Icon.png"/> <a href="https://www.stardewvalley.net/">Stardew Valley</a>
+    <li><img alt="MHW Icon" width="32px" src="https://www.monsterhunterworld.com/favicon.ico"/> <a href="https://www.monsterhunterworld.com/">Monster Hunter World: Iceborne</a>
+</ul>
+
+<strong>2020 Goals:</strong>
+
+<ul>
+    <li> Complete holistic aim training according to <a href="https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0">Aimer7's KovaaK guide</a>
+    <li> Set up foundation for agricultural army in Stardew Valley
+    <li> attain intermediate-level proficiency in usage of Izanami's b&b combos
+    <li> HR 999 and maybe a couple more builds for wholesomeness
+</ul>
 </details>
