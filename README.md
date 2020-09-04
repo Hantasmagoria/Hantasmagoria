@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Farhan%20Daud-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hantasmagoria/)](https://www.linkedin.com/in/Hantasmagoria/) [![Gmail Badge](https://img.shields.io/badge/-Farhan%20Daud-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Farhan.Daud.hypersfusion@gmail.com)](mailto:Farhan.Daud.hypersfusion@gmail.com)
 
-### Greetings! I'm interning at ██████████, a part-time gamer, and full-time subdimensional architect.
+### Greetings! I'm a part-time gamer, and full-time subdimensional architect.
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantasmagoria/)!
 
