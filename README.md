@@ -25,11 +25,11 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantas
 
 <br/>
 
-### 🌟 2020 Goals:
+### 🌟 2022 Goals:
 
 - Finish Portfolio design draft (new-final-final-finalest-final-draft-final-draft.psd)
 - Reorganize cat picture album in D drive
-- Prepare to start documenting my daughter's growth in a journal of some sort (pending some planning)
+- Consistently document my daughter's growth in a journal of some sort (pending some planning)
 
 <br/>
 
@@ -37,18 +37,18 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantas
 <summary><strong> 🎮 Gaming</strong></summary>
 Currently Playing: 
 <ul>
-    <li><a href="https://playvalorant.com/en-us/"><img alt="Valorant Icon" width="32px" src="https://playvalorant.com/static/favicon-16x16.03b0ebb8.png"/> Valorant</a>
+    <li><a href="https://www.ea.com/games/apex-legends"><img alt="Apex Legends Icon" width="32px" src="http://www.rw-designer.com/icon-image/21509-256x256x32.png"/> Apex Legends</a>
     <li><a href="https://www.blazblue.jp/cf/ac/"><img alt="Blazblue Icon" width="32px" src="https://blazblue.wiki/images/thumb/c/c8/BlazBlue_Central_Fiction_Logo.png/300px-BlazBlue_Central_Fiction_Logo.png"/> Blazblue(CentralFiction)</a>
     <li><a href="https://www.stardewvalley.net/"><img alt="Stardew Valley Icon" width="32px" src="https://stardewvalleywiki.com/mediawiki/images/b/b2/Animals_Icon.png"/> Stardew Valley</a>
-    <li><a href="https://www.monsterhunterworld.com/"><img alt="MHW Icon" width="32px" src="https://www.monsterhunterworld.com/favicon.ico"/> Monster Hunter World: Iceborne</a>
+    <li><a href="https://www.minecraft.net/en-us"><img alt="Minecraft Icon" width="32px" src="https://static.wikia.nocookie.net/animatorvsanimation/images/5/52/MinecraftIcon.png/revision/latest/scale-to-width-down/256?cb=20190830150033"/> Minecraft</a>
 </ul>
 
-<strong>Gaming 2020 Goals:</strong>
+<strong>Gaming 2022 Goals:</strong>
 
 <ul>
     <li> Complete holistic aim training according to <a href="https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0">Aimer7's KovaaK guide</a>
     <li> Set up foundation for agricultural army in Stardew Valley
-    <li> attain intermediate-level proficiency in usage of Izanami's b&b combos
-    <li> HR 999 and maybe a couple more builds for wholesomeness
+    <li> attain intermediate-level proficiency in usage of Yuuki Terumi's b&b combos
+    <li> complete building a village with a population of 6.9 million with an unemployment rate below 3.6%
 </ul>
 </details>
