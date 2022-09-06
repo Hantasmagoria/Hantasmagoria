@@ -2,11 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Farhan%20Daud-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hantasmagoria/)](https://www.linkedin.com/in/Hantasmagoria/) [![Gmail Badge](https://img.shields.io/badge/-Farhan%20Daud-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Farhan.Daud.hypersfusion@gmail.com)](mailto:Farhan.Daud.hypersfusion@gmail.com)
 
-### Greetings! I'm a part-time gamer, and full-time subdimensional architect.
+### Greetings! I'm a jack-of-all-trades software engineer!
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantasmagoria/)!
 
-> Also don't hesitate to add me on discord, I'd love to hear your voice!
+> Also don't hesitate to add me on discord, I'd love to connect!
 > [![Discord Badge](https://img.shields.io/badge/-Add%20this%20ID%20=>-blue?style=flat&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&link=https://discordapp.com/users/137706148357734400)](https://discordapp.com/users/137706148357734400)`AndrewOfEnvy#0001`
 
 <br/>
@@ -37,7 +37,9 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantas
 <summary><strong> 🎮 Gaming</strong></summary>
 Currently Playing: 
 <ul>
+    <li><a href="https://www.toweroffantasy-global.com/"><img alt="ToF" width="32px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/43/cd/7d/43cd7d8f-75f4-65a0-bcdb-ec174ac61a92/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/256x256bb.jpg"/> Tower of Fantasy(global)</a>
     <li><a href="https://www.ea.com/games/apex-legends"><img alt="Apex Legends Icon" width="32px" src="http://www.rw-designer.com/icon-image/21509-256x256x32.png"/> Apex Legends</a>
+    <li><a href="https://store.steampowered.com/app/739630/Phasmophobia/"><img alt="Phasmophobia Icon" width="32px" src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/20479c788fb27378c2c99eadcf207e7f/32/256x256.png"/> Phasmophobia</a>
     <li><a href="https://www.blazblue.jp/cf/ac/"><img alt="Blazblue Icon" width="32px" src="https://blazblue.wiki/images/thumb/c/c8/BlazBlue_Central_Fiction_Logo.png/300px-BlazBlue_Central_Fiction_Logo.png"/> Blazblue(CentralFiction)</a>
     <li><a href="https://www.stardewvalley.net/"><img alt="Stardew Valley Icon" width="32px" src="https://stardewvalleywiki.com/mediawiki/images/b/b2/Animals_Icon.png"/> Stardew Valley</a>
     <li><a href="https://www.minecraft.net/en-us"><img alt="Minecraft Icon" width="32px" src="https://static.wikia.nocookie.net/animatorvsanimation/images/5/52/MinecraftIcon.png/revision/latest/scale-to-width-down/256?cb=20190830150033"/> Minecraft</a>
@@ -47,8 +49,8 @@ Currently Playing:
 
 <ul>
     <li> Complete holistic aim training according to <a href="https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0">Aimer7's KovaaK guide</a>
-    <li> Set up foundation for agricultural army in Stardew Valley
-    <li> attain intermediate-level proficiency in usage of Yuuki Terumi's b&b combos
-    <li> complete building a village with a population of 6.9 million with an unemployment rate below 3.6%
+    <li> <s>Set up foundation for agricultural army in Stardew Valley</s>
+    <li> <s>attain intermediate-level proficiency in usage of Yuuki Terumi's b&b combos</s>
+    <li> <s>complete building a village with a population of 6.9 million with an unemployment rate below 3.6%</s>
 </ul>
 </details>
