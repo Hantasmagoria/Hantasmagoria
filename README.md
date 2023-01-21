@@ -7,7 +7,7 @@
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/Hantasmagoria/)!
 
 > Also don't hesitate to add me on discord, I'd love to connect!
-> [![Discord Badge](https://img.shields.io/badge/-Add%20this%20ID%20=>-blue?style=flat&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&link=https://discordapp.com/users/137706148357734400)](https://discordapp.com/users/137706148357734400)`AndrewOfEnvy#0001`
+> [![Discord Badge](https://img.shields.io/badge/-Add%20this%20ID%20=>-blue?style=flat&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&link=https://discordapp.com/users/137706148357734400)](https://discordapp.com/users/137706148357734400)`Envytation#5260`
 
 <br/>
 
