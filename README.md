@@ -1,6 +1,6 @@
 ## Hi I'm Farhan 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Farhan%20Daud-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hantasmagoria/)](https://www.linkedin.com/in/Hantasmagoria/) [![Gmail Badge](https://img.shields.io/badge/-Farhan%20Daud-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Farhan.Daud.hypersfusion@gmail.com)](mailto:Farhan.Daud.hypersfusion@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Farhan%20Daud-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hantasmagoria/)](https://www.linkedin.com/in/Hantasmagoria/) [![Gmail Badge](https://img.shields.io/badge/-Farhan%20Daud-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Farhan.Daud.hyperfusion@gmail.com)](mailto:Farhan.Daud.hyperfusion@gmail.com)
 
 ### Greetings! I'm a jack-of-all-trades software engineer!
 
